@@ -9,7 +9,7 @@
 3. Excel
    - Proyecto para certificación de DataCamp Associate Data Analyst.
 4. Analysis of a possible Bullying case
-   - Brief report of a case study, analysed in the Master's Degree in Organisational and Work Psychology.
+   - Brief report of a case study of a possible bullying case.
 5. Ucinet
    - Social Network Analysis (SNA) using Ucinet software to study intra- and inter-group personal relationships within a company.
 6. Team building
