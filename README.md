@@ -14,3 +14,5 @@
    - Social Network Analysis (SNA) using Ucinet software to study intra- and inter-group personal relationships within a company.
 6. Team building
    - Team building proposal for a given case.
+7. HR - Business Model Canvas
+   - An strategic management template for developing new business models or documenting existing ones. In this case, applied to a hypothetical scenario.
