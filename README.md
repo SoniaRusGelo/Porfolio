@@ -7,7 +7,7 @@
 2. Jupyter
    - Collaborative project development with data analysis and decision making.
 3. Excel
-   - Proyecto para certificación de DataCamp Associate Data Analyst.
+   - DataCamp Associate Data Analyst certification project.
 4. Analysis of a possible Bullying case
    - Brief report of a case study of a possible bullying case.
 5. Ucinet
@@ -16,3 +16,5 @@
    - Team building proposal for a given case.
 7. HR - Business Model Canvas
    - An strategic management template for developing new business models or documenting existing ones. In this case, applied to a hypothetical scenario.
+8. CRM - Jotform
+   - Development of questionnaires to analyse and improve the user experience.
