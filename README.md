@@ -18,3 +18,7 @@
    - An strategic management template for developing new business models or documenting existing ones. In this case, applied to a hypothetical scenario.
 8. CRM - Jotform
    - Development of questionnaires to analyse and improve the user experience.
+9. IBM SPSS STATISTICS
+   - Inferential Statistics exercise with SPSS
+10. JASP
+    - Linear Regression Analysis exercise with JASP
